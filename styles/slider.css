@@ -1,0 +1,45 @@
+﻿h2.slideInfo {/*normal*/ font:18px/25px georgia, serif; color:#000;}
+h2.slideInfo span {padding:0 80px;}
+
+.slideHolder {height:498px; width:250px; margin:0 40px; padding:2px; font-family:georgia, serif; border:1px solid #888; float:left;}
+.slideOuter {height:498px; width:250px; overflow:hidden; margin:0;}
+.slideOuter .slide {padding:0; margin:0; list-style:none; height:800px; width:250px; overflow:hidden;}
+.slideOuter .slide li {display:block; float:left; height:98px; border-bottom:2px solid #fff; width:250px; overflow:hidden; background:red;
+-webkit-transition: 0.75s;
+-moz-transition: 0.75s;
+-o-transition: 0.75s;
+/*transition: 0.75s;*/
+}
+.slideOuter .slide li.p5 {height:318px;}
+.slideOuter .slide.current li {height:43px;}
+.slideOuter .slide.current li.current {height:318px;}
+.slideOuter .slide.current li.p5 {height:318px;}
+
+.slideOuter .slide li.p1 {background:url(image-slide/pic1.jpg);}
+.slideOuter .slide li.p2 {background:url(image-slide/pic2.jpg);}
+.slideOuter .slide li.p3 {background:url(image-slide/pic3.jpg);}
+.slideOuter .slide li.p4 {background:url(image-slide/pic4.jpg);}
+.slideOuter .slide li.p5 {background:url(image-slide/pic5.jpg);}
+
+.slideOuter .slide:hover li.p1, 
+.slideOuter .slide:hover li.p2, 
+.slideOuter .slide:hover li.p3,
+.slideOuter .slide:hover li.p4 {height:43px;}
+
+.slideOuter .slide:hover li.p1:hover,
+.slideOuter .slide:hover li.p2:hover,
+.slideOuter .slide:hover li.p3:hover,
+.slideOuter .slide:hover li.p4:hover {height:318px;}
+
+.slideOuter .slide li h1 {padding:0 15px; margin:0; font-size:24px; line-height:43px; /*text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);*/}
+.slideOuter .slide li {color:#fff;}
+.slideOuter .slide li.p2 h1 {color:#c60;}
+.slideOuter .slide li.p3 h1 {color:#040;}
+.slideOuter .slide li.p4 h1 {color:#400;}
+.slideOuter .slide li.p5 h1 {color:#000;}
+
+.slideOuter .slide li p {font-weight:bold; padding:0 5px 20px 15px; margin:0; font-size:12px; line-height:17px; /*text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);*/}
+.slideOuter .slide li a {display:block; color:#fff; padding:0 15px; margin:0; font-size:14px; line-height:25px; width:230px; font-weight:bold; text-decoration:none;}
+.slideOuter .slide li a:hover {text-decoration:underline;}
+
+.clear {clear:left;}

@@ -1,0 +1,342 @@
+﻿body
+{
+	/*  background-image: url("images/tiled_1920w.jpg");*/
+	background-image: url("images/nature_1280z.jpg");
+	background-repeat: repeat-x;
+	background-color: /*#7ab400*/ #69951a;
+	margin: 0;
+	font-family: Century Gothic;
+	font-size: small;
+	color: #000;
+}
+a
+{
+	color: #0066cc;
+}
+a:hover
+{
+	color: #44aaff;
+}
+
+.breadcrumb
+{
+	font: bold 14px "Lucida Grande" , "Trebuchet MS" , Verdana, Helvetica, sans-serif;
+}
+
+.breadcrumb a
+{
+	background: transparent url(images/breadcrumb.gif) no-repeat center right;
+	text-decoration: none;
+	padding-right: 18px; /*adjust bullet image padding*/
+	color: navy;
+}
+
+.breadcrumb a:visited, .breadcrumb a:active
+{
+	color: navy;
+}
+
+.breadcrumb a:hover
+{
+	text-decoration: underline;
+}
+
+/* MASTER STYLES - used by the content placeholders of the site */
+
+div#master_content
+{
+	background-color: #f0f0f0;
+	left: 150px;
+	width: 605px;
+}
+
+div#master_left-sidebar
+{
+	/*  background-color: #202E53;*/
+	background-image: url("images/blue_square.png");
+	background-repeat: repeat;
+	width: 150px;
+	padding: 0px;
+}
+
+div#master_right-sidebar
+{
+	/*  background-color: #202E53;*/
+	background-image: url("images/blue_square.png");
+	background-repeat: repeat;
+	width: 135px; /* linked with div#master_content.margin-right */
+	padding: 10px;
+}
+
+div#master_footer
+{
+	/*background-color: #202E53;   color: #ffffff;*/
+	text-align: center;
+	padding: 0px;
+}
+
+/* footer height */
+div#master_footer
+{
+	height: 100px;
+}
+div#master_footer-push
+{
+	height: 100px;
+}
+div#master_container
+{
+	margin-bottom: -100px;
+}
+
+
+/* MENU STYLES */
+#menu
+{
+}
+
+/* HEAD STYLES */
+#master_header a
+{
+	float: left;
+	color: #555555;
+}
+#master_header img
+{
+	border: 0;
+}
+#master_header #homepic
+{
+	width: 134px;
+}
+#master_header ul
+{
+	text-align: right;
+}
+#master_header li
+{
+	float: right;
+	list-style-type: none;
+	padding-left: 15px;
+}
+
+/* COL1 STYLES */
+#master_left-sidebar ul
+{
+	margin: 0;
+	padding: 0;
+}
+#master_left-sidebar li
+{
+	list-style-type: none;
+	margin: 2px 0px 2px 0px;
+	padding: 0;
+}
+#master_left-sidebar a
+{
+	color: #ffffff;
+}
+
+/* FOOTER STYLES */
+#master_footer ul
+{
+	padding-bottom: 5px;
+}
+#master_footer li
+{
+	list-style-type: none;
+	padding-right: 15px;
+	display: inline;
+}
+#master_footer li a
+{
+	color: inherit;
+}
+
+/*********************************************************/
+
+/* MAIN STYLES */
+#master_body img, #master_body p img
+{
+	margin: 0 10px 0 10px;
+	border: solid 1px black;
+	float: right;
+}
+
+#master_body h3
+{
+	font: 14px "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif;
+	color: #AB6F31;
+	font-size: 2em;
+}
+
+#master_body a
+{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#master_body li
+{
+    margin-bottom: 20px;
+}
+
+/*********************************************************/
+
+/* Page: alle */
+.nieuwsfoto
+{
+	float: right;
+	margin: 1px 0px 3px 10px;
+	border: solid 1px black;
+}
+.rightimage
+{
+	float: right;
+	margin: 1px 0px 3px 10px;
+	border: solid 1px black;
+}
+.inlineblock
+{
+	display: inline-block;
+}
+.block110px
+{
+	min-height: 110px;
+	display: inline-block;
+	padding: 10px 0 0 0;
+}
+p
+{
+	margin: 0 0 5px 0;
+}
+h4
+{
+	margin: 15px 0 0 0;
+}
+
+/* Page: Lessen Volgen */
+
+.prijs
+{
+}
+.prijs table
+{
+	border-collapse: collapse;
+}
+.prijs_heading
+{
+	font-size: 1.1em;
+	text-align: center;
+}
+.prijs_type
+{
+	text-align: left;
+	font-weight: bold;
+	display: block;
+	padding-top: 10px;
+	border-top: 1px dashed black;
+}
+.prijs_volwassenen
+{
+	width: 110px;
+	font-weight: normal;
+	text-align: center;
+}
+.prijs_jeugd
+{
+	width: 110px;
+	font-weight: normal;
+	text-align: center;
+	border-left: 1px dashed black;
+}
+.prijs_regel
+{
+	font-style: italic;
+}
+.prijs_item
+{
+	display: list-item;
+	list-style-type: square;
+	list-style-position: inside;
+}
+
+/* Page: Informatie */
+
+.info_afspraken
+{
+	list-style-type: decimal;
+}
+
+/* Page: Links */
+.linksRow
+{
+	clear: both;
+	border-top: dashed 2px black;
+	height: 100%;
+}
+.linksImage
+{
+	height: 100%;
+	width: 210px;
+	text-align: right;
+	padding: 5px 0 5px 0;
+	float: right;
+	vertical-align: top;
+}
+
+.linksTitleUrl
+{
+}
+
+/* Page: Contact */
+.contactInput50
+{
+	width: 50px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.contactInput150
+{
+	width: 147px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.contactInput25
+{
+	width: 25px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.contactInput200
+{
+	width: 200px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.contactInput350
+{
+	width: 350px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.contactTextarea
+{
+	width: 90%;
+	height: 10em;
+}
+.contactLabel100
+{
+	display: inline-block; /* because ASP makes a label into a span! */
+	width: 100px;
+}
+.contactLabel115
+{
+	display: inline-block; /* because ASP makes a label into a span! */
+	width: 115px;
+}
+.contactSend
+{
+	display: inline-block;
+	margin-bottom: 10px;
+}

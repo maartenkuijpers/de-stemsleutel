@@ -1,0 +1,35 @@
+﻿#accordion
+{
+  margin: 20px 0 0;
+  max-width: 400px;
+}
+#accordion H2
+{
+  background: orange;
+  color: white;
+  cursor: pointer;
+  line-height: 22px;
+  margin: 3px 0 1px 0;
+  padding: 3px 5px 1px;
+  font-size: 1.3em;
+}
+#accordion H2 a
+{
+  text-decoration: none;
+  color: White;
+}
+#accordion .content
+{
+  background-color: #AB6F31;
+  line-height: 16px;
+}
+#accordion .content p
+{
+  margin: 0.5em 0;
+  padding: 0 6px 8px 6px;
+}
+#accordion .content a
+{
+  text-decoration: none;
+  color: White;
+}

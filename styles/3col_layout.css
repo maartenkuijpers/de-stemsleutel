@@ -1,0 +1,83 @@
+﻿html, body
+{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body
+{
+  text-align: center;
+}
+
+#master_fixed
+{
+  margin: 0 auto;
+  width: 950px; /* you can use px, em or % */
+  text-align: left;
+}
+
+div#master_container
+{
+  margin-bottom: -100px;
+  padding: 0 auto;
+  position: relative;
+}
+
+div#master_header
+{
+  height: 100px;
+  border-bottom: 1px solid #000;
+  padding: 20px;
+}
+
+div#master_body
+{
+  position: relative;
+}
+
+/* IE6 Fix */
+* html div#master_body
+{
+  overflow: visible;
+}
+
+div#master_content
+{
+  min-height: 400px;
+  position: relative;
+  padding: 20px;
+}
+
+div#master_left-sidebar
+{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  width: 260px;
+  padding: 20px;
+}
+
+div#master_right-sidebar
+{
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 260px;
+  padding: 20px;
+}
+
+div#master_footer-push
+{
+  height: 100px;
+}
+
+div#master_footer
+{
+  width: 950px;
+  height: 100px;
+  border-top: 1px solid #000;
+  padding: 20px;
+}
