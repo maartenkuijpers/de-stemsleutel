@@ -31,15 +31,10 @@
         van Munster (luit)
     </p>
     <p>
-        Met haar jarenlange ervaring in de kinder- en jongerenzang start zij in september met het project: "ER ZIT ALTIJD WEL EEN LIEDJE IN JE; zingen voor Basisschoolleerlingen"
-        in De Pracht in Aalst-Waalre. Een project waarin op een speelse manier gewerkt wordt aan een programma van eigentijdse kinderliedjes. <a target="_blank"
-            href="pdf/Projekt Zingen voor basisschool 2014-2015.pdf">Klik hier voor meer informatie</a>.
-    </p>
-    <p>
-        Als zangpedagoge geeft zij individuele en groepslessen zang, en geeft zij regelmatig
-        stemvormingslessen (workshops) aan diverse koren (Philips Philharmonisch Koor, Vrouwenensemble
-        Sirena, popkoor Dissisit, ouderenkoren enz.). Regelmatig geeft zij via de <a target="_blank" href="http://www.lovok.nl/index.php/welkom-rebobrabant">REBO</a> (Regionale
-        Bond van Ouderenkoren in Brabant/Limburg) cursussen voor
-        de ouder wordende stem.
+        Als zangpedagoge geeft zij individuele en groepslessen zang, en geeft zij regelmatig stemvormingslessen (workshops) aan diverse koren (<a target="_blank"
+            href="http://www.detoonkunst.nl/">Toonkunstkoor Eindhoven</a>, <a target="_blank" href="http://www.philipskoor.nl/">Philips Philharmonisch
+        Koor</a>, <a target="_blank" href="http://www.sirenakoor.nl/">Vrouwenensemble Sirena</a>, <a target="_blank" href="http://www.dississit.info/">popkoor Dissisit</a>, ouderenkoren enz.).
+        Regelmatig geeft zij via de <a target="_blank" href="http://www.lovok.nl/index.php/welkom-rebobrabant">REBO</a> (Regionale Bond van Ouderenkoren in Brabant/Limburg)
+        cursussen voor de ouder wordende stem.
     </p>
 </asp:Content>
