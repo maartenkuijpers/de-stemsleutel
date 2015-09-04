@@ -11,10 +11,7 @@
     <h3>Contact</h3>
     <h4>De Stemsleutel</h4>
     <p>
-        website: http://www.destemsleutel.nl<br />
-        email: info
-        <script type="text/javascript">document.write('@')</script>
-        destemsleutel.nl<br />
+        email: <a href="mailto:info<script type='text/javascript'>document.write('@')</script>destemsleutel.nl<br />">info<script type='text/javascript'>document.write('@')</script>destemsleutel.nl</a>
     </p>
     <h4>Postadres "De Stemsleutel"</h4>
     <p>
