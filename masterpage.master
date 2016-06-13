@@ -46,97 +46,104 @@
 </head>
 <body>
     <form id="formMain" runat="server">
-    <div id="master_fixed">
-        <div id="master_container">
-            <div id="master_header">
-                <asp:ContentPlaceHolder ID="contentHead" runat="server">
-                    <a id="homepic" href="default.aspx">
-                        <img src="styles/images/key.png" height="100px" alt="de Stemsleutel" /></a>
-                    <h1>
-                        de Stemsleutel</h1>
-                </asp:ContentPlaceHolder>
-            </div>
-            <div id="master_body">
-                <div id="master_left-sidebar">
-                    <asp:ContentPlaceHolder ID="contentLeft" runat="server">
-                        <!-- MENU begin -->
-                        <div id="accordion">
-                            <h2>
-                                <a href="home.aspx">Home</a></h2>
-                            <div class="content">
-                            </div>
-                            <h2>
-                                De Stemsleutel</h2>
-                            <div class="content">
-                                <p>
-                                    <a href="cursusjaar2015.aspx">Cursusjaar 2015-2016</a>
-                                </p>
-                            </div>
-                            <h2>
-                                Lessen volgen</h2>
-                            <div class="content">
-                                <p>
-                                    <a href="stemsleutel_zanglessen.aspx">Zanglessen</a></p>
-                                <p>
-                                    <a href="stemsleutel_groepslessen.aspx">Groepslessen</a></p>
-                                <p>
-                                    <a href="stemsleutel_cursussen.aspx">Cursussen</a></p>
-                                <p>
-                                    <a href="stemsleutel_consulentschap.aspx">Consulentschap</a></p>
-                                <p>
-                                    <a href="stemsleutel_projecten.aspx">Projecten</a></p>
-                                <p>
-                                    <a href="stemsleutel_prijzen.aspx">Prijzen</a></p>
-                            </div>
-                            <h2>
-                                Docenten</h2>
-                            <div class="content">
-                                <p>
-                                    <a href="docent_lydwien.aspx">Lydwien Donkers</a></p>
-                            </div>
-                            <h2>
-                                Informatie</h2>
-                            <div class="content">
-                                <p>
-                                    <a href="info_algemeen.aspx">Algemeen</a></p>
-                                <p>
-                                    <a href="info_afspraken.aspx">Afspraken</a></p>
-                            </div>
-                            <h2>
-                                <a href="contact.aspx">Contact</a></h2>
-                            <div class="content">
-                            </div>
-                            <h2>
-                                <a href="links.aspx">Links</a></h2>
-                            <div class="content">
-                            </div>
-                        </div>
-                        <!-- MENU end -->
+        <div id="master_fixed">
+            <div id="master_container">
+                <div id="master_header">
+                    <asp:ContentPlaceHolder ID="contentHead" runat="server">
+                        <a id="homepic" href="default.aspx">
+                            <img src="styles/images/key.png" height="100px" alt="de Stemsleutel" /></a>
+                        <h1>de Stemsleutel</h1>
                     </asp:ContentPlaceHolder>
                 </div>
-                <div id="master_right-sidebar">
-                    <!-- Login etc. -->
-                    <asp:ContentPlaceHolder ID="contentRight" runat="server">
-                    </asp:ContentPlaceHolder>
+                <div id="master_body">
+                    <div id="master_left-sidebar">
+                        <asp:ContentPlaceHolder ID="contentLeft" runat="server">
+                            <!-- MENU begin -->
+                            <div id="accordion">
+                                <h2>
+                                    <a href="home.aspx">Home</a></h2>
+                                <div class="content">
+                                </div>
+                                <h2>De Stemsleutel</h2>
+                                <div class="content">
+                                    <p>
+                                        <a href="cursusjaar2016.aspx">Cursusjaar 2016-2017</a>
+                                    </p>
+                                    <p>
+                                        <a href="cursusjaar2016-stemvormingscursus.aspx">Stemvormingscursus</a>
+                                    </p>
+                                </div>
+                                <h2>Lessen volgen</h2>
+                                <div class="content">
+                                    <p>
+                                        <a href="stemsleutel_zanglessen.aspx">Zanglessen</a>
+                                    </p>
+                                    <p>
+                                        <a href="stemsleutel_groepslessen.aspx">Groepslessen</a>
+                                    </p>
+                                    <p>
+                                        <a href="stemsleutel_cursussen.aspx">Cursussen</a>
+                                    </p>
+                                    <p>
+                                        <a href="stemsleutel_consulentschap.aspx">Consulentschap</a>
+                                    </p>
+                                    <p>
+                                        <a href="stemsleutel_projecten.aspx">Projecten</a>
+                                    </p>
+                                    <p>
+                                        <a href="stemsleutel_prijzen.aspx">Prijzen</a>
+                                    </p>
+                                </div>
+                                <h2>Docenten</h2>
+                                <div class="content">
+                                    <p>
+                                        <a href="docent_lydwien.aspx">Lydwien Donkers</a>
+                                    </p>
+                                </div>
+                                <h2>Informatie</h2>
+                                <div class="content">
+                                    <p>
+                                        <a href="info_algemeen.aspx">Algemeen</a>
+                                    </p>
+                                    <p>
+                                        <a href="info_afspraken.aspx">Afspraken</a>
+                                    </p>
+                                </div>
+                                <h2>
+                                    <a href="contact.aspx">Contact</a></h2>
+                                <div class="content">
+                                </div>
+                                <h2>
+                                    <a href="links.aspx">Links</a></h2>
+                                <div class="content">
+                                </div>
+                            </div>
+                            <!-- MENU end -->
+                        </asp:ContentPlaceHolder>
+                    </div>
+                    <div id="master_right-sidebar">
+                        <!-- Login etc. -->
+                        <asp:ContentPlaceHolder ID="contentRight" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                    <div id="master_content">
+                        <asp:ContentPlaceHolder ID="contentMain" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
                 </div>
-                <div id="master_content">
-                    <asp:ContentPlaceHolder ID="contentMain" runat="server">
-                    </asp:ContentPlaceHolder>
+                <div id="master_footer-push">
                 </div>
             </div>
-            <div id="master_footer-push">
-            </div>
-        </div>
-        <div id="master_footer">
-            <ul>
-                <li>copyright 2015</li>
-                <!--
+            <div id="master_footer">
+                <ul>
+                    <li>copyright 2016</li>
+                    <!--
                 <li><a href="contact.aspx">contact</a></li>
                 <li><a href="links.aspx">links</a></li>
                     -->
-            </ul>
+                </ul>
+            </div>
         </div>
-    </div>
     </form>
 </body>
 </html>
