@@ -10,7 +10,7 @@
     </p>
     <h3>Cursusjaar 2016-2017</h3>
     <p>
-        In week 36 (dinsdag 6 september) start het nieuwe cursusjaar in Aalst-Waalre: Agnus Deikerk
+        In week 37 (dinsdag 13 september) start het nieuwe cursusjaar in Aalst-Waalre: Agnus Deikerk
     </p>
     <p>
         In week 38 (dinsdag 19 september) beginnen de lessen in Acht (Noord-Eindhoven): Dorpshuis Acht
@@ -20,8 +20,8 @@
         Wil je graag zangles en eerst kennismaken? Dat kan: De Stemsleutel biedt je een gratis proefles aan. Opgave via deze site of bel 06 54606927 Lydwien Donkers.
         </p>
     <p>
-        Opgave <strong>GRATIS PROEFLES</strong> uiterlijk weekend van 2 juli (Acht) en 3 juli (Aalst-Waalre). Wil je gebruikmaken van deze mogelijkheid, neem dan
-        <a href="mailto:liedjewien@hotmail.com?subject=Gratis proefles De Stemsleutel">contact op via het mail adres</a>.
+        Opgave <strong>GRATIS PROEFLES</strong> uiterlijk weekend van 2 juli (Acht) en 3 juli (Aalst-Waalre). Wil je gebruikmaken van deze mogelijkheid, stuur dan een bericht naar
+        <a href="mailto:info@destemsleutel.nl?subject=Gratis proefles De Stemsleutel">info@destemsleutel.nl</a>.
     </p>
     <h4>Gratis deelname en kortingen</h4>
     <p>

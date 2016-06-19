@@ -35,7 +35,6 @@ public partial class KinderzangInschrijven : System.Web.UI.Page
     string subject = "[destemsleutel.nl] Inschrijving Kinderzang Basisscholen: "+ textNaam.Text;
 
     string receiverAddress = "maarten@grasperk.nl";
-    // string receiverAddress = "liedjewien@hotmail.com";
     string receiverDisplayName = "De Stemsleutel";
 
     if (SendMail(receiverAddress, receiverDisplayName, subject, body))

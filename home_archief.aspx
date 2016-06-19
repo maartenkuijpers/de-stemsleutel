@@ -7,6 +7,15 @@
     </script>
     <h3>Nieuwsarchief</h3>
     <hr />
+    <h4>2015</h4>
+    <ul>
+        <li>In <strong>Eindhoven</strong> heeft De Stemsleutel haar leslocatie gevonden in het Kloosterhof te Gestel aan de Hoogstraat 301 a. Hier worden naast de stemvormingscursus
+            voor koorzangers, ensemblelessen gegeven en kunnen individuele lessen worden ingepland. Bij voldoende deelname start in september ook een stemvormingscursus in het Dorpshuis
+            te Acht (Lekstraat 4). Informatie te lezen in <a href="pdf/Stemvormingscursus 2015-2016 in Dorpshuis Acht.pdf">Wijkkranten 't Brierke en Kijk op Acht</a> (edities na zomervakantie)</li>
+        <li><strong>januari 2016</strong><br />
+            Op 30 januari 2016 (datum o.v.) vindt de jaarlijkse halfwegpresentatie plaats in de Agnus Deikerk door leerlingen van de Stemsleutel
+        </li>
+    </ul>
     <h4>2014</h4>
     <ul>
         <li>

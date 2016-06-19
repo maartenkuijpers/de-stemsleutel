@@ -23,7 +23,6 @@
 	</configSections>
 	<appSettings>
 		<add key="ContactFormReceiver" value="liedjewien@hotmail.com"/>
-		<!-- <add key="ContactFormReceiver" value="maarten@grasperk.nl"/>-->
 		<add key="ContactFormDisplayName" value="De Stemsleutel"/>
 	</appSettings>
 	<connectionStrings/>
