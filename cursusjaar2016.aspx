@@ -21,7 +21,7 @@
         </p>
     <p>
         Opgave <strong>GRATIS PROEFLES</strong> uiterlijk weekend van 2 juli (Acht) en 3 juli (Aalst-Waalre). Wil je gebruikmaken van deze mogelijkheid, stuur dan een bericht naar
-        <a href="mailto:info@destemsleutel.nl?subject=Gratis proefles De Stemsleutel">info@destemsleutel.nl</a>.
+        <a href="mailto:liedjewien@hotmail.com?subject=Gratis proefles De Stemsleutel">liedjewien@hotmail.com</a>.
     </p>
     <h4>Gratis deelname en kortingen</h4>
     <p>

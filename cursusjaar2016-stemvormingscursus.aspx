@@ -16,7 +16,7 @@
     </p>
     <h4>Meer informatie & aanmelden</h4>
     <p>
-        Wil je meer weten over de Stemvormingscursus of jezelf aanmelden, stuur dan een bericht naar <a href="mailto:info@destemsleutel.nl?subject=Stemvormingscursus">info@destemsleutel.nl</a>
+        Wil je meer weten over de Stemvormingscursus of jezelf aanmelden, stuur dan een bericht naar <a href="mailto:liedjewien@hotmail.com?subject=Stemvormingscursus">liedjewien@hotmail.com</a>
     </p>
     <h4>Acht</h4>
     <p>

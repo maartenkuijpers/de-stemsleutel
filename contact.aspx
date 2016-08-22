@@ -11,7 +11,7 @@
     <h3>Contact</h3>
     <h4>De Stemsleutel</h4>
     <p>
-        email: <a href="mailto:info@destemsleutel.nl?subject=Informatie">info@destemsleutel.nl</a>
+        email: <a href="mailto:liedjewien@hotmail.com?subject=Informatie">liedjewien@hotmail.com</a>
     </p>
     <h4>Postadres "De Stemsleutel"</h4>
     <p>
