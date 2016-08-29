@@ -20,27 +20,20 @@
     </p>
     <h4>Acht</h4>
     <p>
-        Bij voldoende deelname (6 zangers per cursus) zal de cursus in Acht starten op <strong>maandag</strong> 19 september van 13.30 uur - 15.00 uur.
+        Bij voldoende deelname zal de cursus in Acht starten op <strong>maandag</strong> 10 oktober van 13.30 uur - 14.30 uur (4 deelnemers) of tot 15.00 uur (6 deelnemers).
     </p>
     <p>
-        Les data: maandag 19-9-2016 t/m 16-1-2017 (uitgezonderd 24-10-2016 en 26-12-2016 en 2-1-2017)
+        Les data: Maandag 10-10-2016 t/m 23-1-2017 (uitgezonderd 24-10 en 26-12 en 2-1-2017; herfst- en kerstvakantie)
     </p>
-    <p>Kosten per zanger Euro 225,00 voor 15 lessen (vooruitbetaling)</p>
-    <h4>Waalre</h4>
+    <p>Kosten per zanger Euro 195,00 (vooruitbetaling)</p>
+    <h4>Aalst-Waalre</h4>
     <p>
-        De cursus in de Agnus Dei kerk in Waalre zal dan starten op <strong>dinsdag</strong> 6 september om 10.30 uur - 12.00 uur.
-    </p>
-    <p>
-        Les data: dinsdag 13-9 t/m 17-1-2017 (uitgezonderd 25-10-2016 en 27-12-2016 en 3-1-2017)
+        De cursus in de Agnus Dei kerk zal bij voldoende deelname starten op <strong>dinsdag</strong> 13 september om 10.30 uur - 11.30 uur (4 deelnemers) of 10.00 uur - 11.30 uur (6 deelnemers).
     </p>
     <p>
-        Kosten per zanger Euro 240,00 voor 16 lessen (vooruitbetaling)
-    </p>
-    <h4>Vervolgcursus</h4>
-    <p>
-        Bij voldoende belangstelling kunt u deelnemen op beide locaties aan een vervolgcursus waarin het accent komt te liggen op zingen in een ensemble.
+        Les data: dinsdag 13-9-2016 t/m 24-1-2017 (uitgezonderd 25-10 en 27-12 en 3-1-2017; herfst- en kerstvakantie)
     </p>
     <p>
-        Data:  24-1-2017 tot 16-5-2017 (uitgezonderd 27&28-2-2017, 17-4-2017 en 24&25-4-2017 en 1&2-5-2017)
+        Kosten per zanger Euro 255,00 (vooruitbetaling)
     </p>
 </asp:Content>
