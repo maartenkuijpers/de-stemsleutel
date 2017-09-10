@@ -7,6 +7,21 @@
     </script>
     <h3>Nieuwsarchief</h3>
     <hr />
+    <h4>2016</h4>
+    <ul>
+        <li>
+            <strong>september 2016</strong><br />
+            Op dinsdag 6 september start <a href="cursusjaar2016.aspx">het nieuwe cursusjaar</a> in de Stemsleutel</li>
+        <li>Ook dit jaar zullen er op verschillende locaties weer stemvormingscursussen (voor koorzangers) en ensemblelessen gegeven worden.</li>
+        <li>Kennismaken? Geef u op voor de GRATIS PROEFLES:<br />
+            Dorpshuis Acht (Noord-Eindhoven) op 3 oktober van 11.30 uur - 12.15 uur<br />
+            Agnus Deikerk (Aalst-Waalre) op 6 september van 11.00 uur - 11.45 uur<br />
+        </li>
+        <li>Na een succesvol cursusjaar vindt er ook dit jaar weer een stemvormingscursus plaats speciaal voor koorzangers <a href="cursusjaar2016-stemvormingscursus.aspx">lees meer...</a></li>
+        <li>Ben je leerling van De Stemsleutel dan is bij bepaalde projecten jouw deelname gratis of betaal je een gereduceerde prijs (verdere informatie vind je hier en in de flyers)</li>
+        <li>De Stemsleutel is gevestigd in <strong>Waalre</strong> (Agnus Deikerk) en is aangesloten bij de <a href="http://www.muziekles-aalstwaalre.nl/" target="_blank">MAW</a>
+            : De docentenvereniging Muziekonderwijs Aalst Waalre.</li>
+    </ul>
     <h4>2015</h4>
     <ul>
         <li>In <strong>Eindhoven</strong> heeft De Stemsleutel haar leslocatie gevonden in het Kloosterhof te Gestel aan de Hoogstraat 301 a. Hier worden naast de stemvormingscursus

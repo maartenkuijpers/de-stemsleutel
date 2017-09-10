@@ -10,7 +10,7 @@
 
     <h3>Prijzen</h3>
     <p>
-        <strong>Prijzen: <a href="stemsleutel_prijzen_tabel.aspx">klik hier</a></strong>
+        <strong>Prijzen: <a href="pdf/Tarieven%20zanglessen%20stemvorming%202017-2018.pdf">klik hier</a></strong>
     </p>
     <p>
         Prijzen zijn afhankelijk van uw keuze en uw individuele wensen.<br />

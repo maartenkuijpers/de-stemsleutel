@@ -67,10 +67,7 @@
                                 <h2>De Stemsleutel</h2>
                                 <div class="content">
                                     <p>
-                                        <a href="cursusjaar2016.aspx">Cursusjaar 2016-2017</a>
-                                    </p>
-                                    <p>
-                                        <a href="cursusjaar2016-stemvormingscursus.aspx">Stemvormingscursus</a>
+                                        <a href="cursusjaar2017-stemvormingscursus.aspx">Stemvormingscursus</a>
                                     </p>
                                 </div>
                                 <h2>Lessen volgen</h2>
@@ -136,7 +133,7 @@
             </div>
             <div id="master_footer">
                 <ul>
-                    <li>copyright 2016</li>
+                    <li>copyright 2017</li>
                     <!--
                 <li><a href="contact.aspx">contact</a></li>
                 <li><a href="links.aspx">links</a></li>
