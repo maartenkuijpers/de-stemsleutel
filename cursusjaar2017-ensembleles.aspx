@@ -6,9 +6,9 @@
         accordionUseEffect = false;
     </script>
     <p class="breadcrumb">
-        <a href="home.aspx">Home</a> Stemvormingscursus
+        <a href="home.aspx">Home</a> Ensembleles
     </p>
-    <h3>Stemvormingscursus</h3>
+    <h3>Ensembleles</h3>
     <p>
         Tijdens de Ensembleles zal aandacht besteed worden aan houding, adem en stemgeving waarin ook de vragen en wensen van de individuele koorzanger worden meegenomen.
         Zangdocente Lydwien Donkers zal in haar lessen haar ervaringen vanuit de <a href="links.aspx">Alexandertechniek</a> en <a href="links.aspx">Lichtenbergmethode</a>
