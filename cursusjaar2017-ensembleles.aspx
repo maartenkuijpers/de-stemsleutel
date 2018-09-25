@@ -18,6 +18,7 @@
     <p>
         Wil je meer weten over de Ensembleles of jezelf aanmelden, stuur dan een bericht naar <a href="mailto:liedjewien@hotmail.com?subject=Stemvormingscursus">liedjewien@hotmail.com</a>
     </p>
+    <!--
     <h4>Acht</h4>
     <p>
         Bij voldoende deelname zal de cursus in Acht starten op <strong>maandag</strong> 23 oktober van 11.30 uur tot 12.45 uur in Dorpshuis Acht.
@@ -36,4 +37,5 @@
     <p>
         Kosten per zanger Euro 250,-.
     </p>
+        -->
 </asp:Content>
